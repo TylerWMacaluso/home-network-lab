@@ -93,7 +93,7 @@ Each floor functions as a segmented network extension:
 ## Network Segmentation
 
 ### 1. Primary Network (Main)
-- Tri-band WiFi with **Multi-Link Operation (MLO)**
+- Dual-band WiFi 7 (2.4 GHz and 5 GHz), with device-dependent **Multi-Link Operation (MLO)** support
 - Upfront wired backhaul for optimal performance
 - Adaptive QoS + AI-powered Adaptive QoE
 - Prioritized traffic:
@@ -132,7 +132,7 @@ Each floor functions as a segmented network extension:
   Seamless roaming and whole-home wireless coverage
 
 - **Multi-Link Operation (MLO)**  
-  Simultaneous use of tri-band frequencies for maximum throughput
+  Supported client devices can use MLO across the 2.4 GHz and 5 GHz bands; actual modes and performance depend on device support and configuration
 
 - **Adaptive QoS + AI QoE**  
   Intelligent traffic prioritization based on real-time usage patterns
