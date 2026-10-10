@@ -18,7 +18,7 @@ This project focuses on maximizing throughput, reducing latency, and implementin
 ## Key Features
 - MoCA 2.5 wired backhaul over coax
 - Multi-node AiMesh deployment (3 floors)
-- Tri-band WiFi with Multi-Link Operation (MLO)
+- Dual-band WiFi 7 (2.4 GHz and 5 GHz), with device-dependent Multi-Link Operation (MLO) support
 - Adaptive QoS + AI-powered QoE optimization
 - Segmented Primary, IoT, and Guest networks
 - Hardened router configuration and security
